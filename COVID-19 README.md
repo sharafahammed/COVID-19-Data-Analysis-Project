@@ -35,7 +35,7 @@ The project uses two datasets imported from Excel, which include COVID-19 deaths
 ---
 
 ## Key Findings
-- Countries with higher populations did not necessarily have higher death counts. Some countries had higher infection and death rates, suggesting that factors other than population size influenced the spread and severity of COVID-19. This may be due to differences in healthcare quality and population demographics.
+- Countries with higher populations did not necessarily have higher death counts and infection rate. This could be due to other factors like in healthcare quality and population demographics.
 
 - Countries with higher total case counts generally had higher numbers of deaths.
 
