@@ -41,4 +41,4 @@ The project uses two datasets imported from Excel, which include COVID-19 deaths
 
 - The percentage of the population infected increased over time, highlighting the widespread transmission of the virus.
 
-- Vaccination rates also increased over time. However, the speed of vaccination rollout varied and this could be because of differences in healthcare quality and treatment. 
+- Vaccination rates also increased over time. However, the speed of vaccination rollout varied ny country and this could be due to differences in healthcare quality and treatment. 
