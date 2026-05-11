@@ -42,4 +42,4 @@ The results were used to create data visualisations in Tableau.
 
 - The percentage of the population infected increased over time, highlighting the widespread transmission of the virus.
 
-- Vaccination rates also increased over time; however, the speed of vaccination rollout varied due to differences in healthcare systems, infrastructure, and access to treatment.
+- Vaccination rates also increased over time. However, the speed of vaccination rollout varied due to differences in healthcare systems, infrastructure, and access to treatment.
