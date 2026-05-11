@@ -30,8 +30,7 @@ The project uses two datasets imported from Excel, which include COVID-19 deaths
 - Countries with highest infection rates  
 - Countries and continents with highest death counts  
 - Percentage of population vaccinated over time  
-
-The results were used to create data visualisations in Tableau.
+- The results were used to create data visualisations in Tableau.
 
 ---
 
@@ -42,4 +41,4 @@ The results were used to create data visualisations in Tableau.
 
 - The percentage of the population infected increased over time, highlighting the widespread transmission of the virus.
 
-- Vaccination rates also increased over time. However, the speed of vaccination rollout varied due to differences in healthcare systems, infrastructure, and access to treatment.
+- Vaccination rates also increased over time. However, the speed of vaccination rollout varied and this could be because of differences in healthcare quality and treatment. 
